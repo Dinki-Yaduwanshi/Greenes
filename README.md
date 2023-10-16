@@ -1,4 +1,4 @@
-# The IMAGE-PICKER APP
+# THE GREENES APPLICATION
 o	The system's main objective is to streamline the billing process and make it more eco-friendly and user-friendly. The system was designed with the intention of promoting environmental sustainability and ease of use.
 o	It aims to eliminate the need for paper receipts by using QR systems and real-time databases such as Firebase. 
 
